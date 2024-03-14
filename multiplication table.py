@@ -19,5 +19,5 @@ def create_multiplication_table(size):
 
 
 # Example usage
-size = 12
+size = (int(input("Enter your number: ")))
 create_multiplication_table(size)
